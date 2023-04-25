@@ -59,7 +59,7 @@ Just Progress IT is set up to create a training environment for the members of t
 <a href="https://snyk.io/" title="Snyk"><img src="./icons/snyk.png" alt="Snyk logo" width="41px" height="41px"></a>
 > ## Guides:
 > <a href="https://codeguide.co/" title="HTML & CSS Style Guide"><img src="./icons/code-guide.png" alt="Code Guide logo" width="41px" height="41px"></a>
-<a href="https://airbnb.io/javascript/" title="JavaScript Style Guide"><img src="./icons/javascript.svg" alt="Airbnb logo" width="41px" height="41px"></a>
+<a href="https://airbnb.io/javascript/" title="JavaScript Style Guide"><img src="./icons/javascript.svg" alt="Javascript logo" width="41px" height="41px"></a>
 <a href="https://google.github.io/styleguide/tsguide.html" title="Typescript Style Guide"><img src="./icons/typescript.png" alt="Google logo" width="41px" height="41px"></a>
 <a href="https://airbnb.io/javascript/react/" title="React Style Guide"><img src="./icons/react.svg" alt="Airbnb logo" width="41px" height="41px"></a>
 <a href="https://web.dev/" title="Web.dev Guide"><img src="./icons/webdev.png" alt="Web.dev logo" width="41px" height="41px"></a>
