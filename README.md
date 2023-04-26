@@ -26,10 +26,10 @@ Just Progress IT is set up to create a training environment for the members of t
 > <a href="https://html.com/html5/" title="HTML5"><img src="./icons/html-5.svg" alt="HTML5" width="31px" height="41px"></a>
 <a href="https://www.javascript.com/" title="Javascript"><img src="./icons/javascript.svg" alt="Javascript logo" width="41px" height="41px"></a>
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="./icons/typescript.png" alt="Typescript logo" width="41px" height="41px"></a>
-<a href="https://www.python.org/" title="Python"><img src="./icons/python.png" alt="Python" width="41px" height="41px"></a>
+<a href="https://www.python.org/" title="Python"><img src="./icons/python.svg" alt="Python" width="41px" height="41px"></a>
 <a href="https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170" title="C++"><img src="./icons/cpp.png" alt="cpp" width="41px" height="41px"></a>
 <a href="https://www.java.com/en/" title="Java"><img src="./icons/java.png" alt="java" width="41px" height="41px"></a>
-<a href="https://developer.arm.com/documentation/den0013/d/Introduction-to-Assembly-Language" title="Assembly"><img src="./icons/assembly.png" alt="Assembly" width="41px" height="41px"></a>
+<a href="https://developer.arm.com/documentation/den0013/d/Introduction-to-Assembly-Language" title="Assembly"><img src="./icons/asm.png" alt="Assembly" width="41px" height="41px"></a>
 <a href="https://www.datenbanken-verstehen.de/" title="SQL"><img src="./icons/sql.png" alt="SQL" width="31px" height="41px"></a>
 <a href="https://mdxjs.com/" title="MDX"><img src="./icons/mdx.png" alt="MDX" width="61px" height="41px"></a>
 <a href="https://nextjs.org/" title="Next"><img src="./icons/next.png" alt="Next logo" width="41px" height="41px"></a>
