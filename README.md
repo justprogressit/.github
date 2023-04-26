@@ -18,7 +18,7 @@ Just Progress IT is set up to create a training environment for the members of t
 <a href="https://inkscape.org/" title="Inkscape"><img src="./icons/inkscape.png" alt="Inkscape logo" width="41px" height="41px"></a>
 <a href="https://www.gimp.org/" title="GIMP"><img src="./icons/gimp.png" alt="Gimp logo" width="41px" height="41px"></a>
 <a href="https://www.figma.com/" title="Figma"><img src="./icons/figma.png" alt="Figma logo" width="31px" height="41px"></a>
-<a href="https://www.qt.io/product/ui-design-tools" title="Design Studio"><img src="./icons/designstudio.png" alt="Design Studio logo" width="31px" height="41px"></a>
+<a href="https://www.qt.io/product/ui-design-tools" title="Design Studio"><img src="./icons/designstudio.png" alt="Design Studio logo" width="41px" height="41px"></a>
 <a href="https://greensock.com/" title="Greensock"><img src="./icons/greensock.png" alt="Greensock logo" width="41px" height="41px"></a>
 <a href="https://carbondesignsystem.com/" title="IBM Carbon Design System"><img src="./icons/ibm-logo.png" alt="IBM logo" width="41px" height="41px"></a>
 <a href="https://css-tricks.com/" title="CSS3"><img src="./icons/css-3.svg" alt="CSS3" width="31px" height="41px"></a>
