@@ -1,6 +1,6 @@
 ![](./icons/control-room-banner.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=40&pause=1000&color=105271&center=true&width=1150&height=60&lines=Just-Progess-IT;Power,+Quality,+Xpertise;In+Technical+Applications;for+Web,+Desktop+and+Mobile)](https://pqxglobal.com/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=40&pause=1000&color=105271&center=true&width=1150&height=60&lines=Just-Progess-IT;Power,+Quality,+Xpertise;In+Technical+Applications+and+Security;for+Web,+Desktop+and+Mobile)](https://pqxglobal.com/)
 
 <div align="center">
 
