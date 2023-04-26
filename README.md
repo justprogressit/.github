@@ -11,6 +11,7 @@ Just Progress IT is set up to create a training environment for the members of t
 
 > ## Project Management:
 > <a href="https://clickup.com/" title="Clickup"><img src="./icons/clickup.png" alt="Clickup logo" width="41px" height="41px"></a>
+<a href="https://www.scrum.org/" title="Scrum"><img src="./icons/scrum.png" alt="Scrum logo" width="41px" height="41px"></a>
 > ## Design:
 > <a href="https://obsproject.com/" title="OBS"><img src="./icons/obs.png" alt="OBS logo" width="41px" height="41px"></a>
 <a href="https://www.blender.org/" title="Blender"><img src="./icons/blender.png" alt="Blender logo" width="41px" height="41px"></a>
