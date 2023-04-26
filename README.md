@@ -33,6 +33,7 @@ Just Progress IT is set up to create a training environment for the members of t
 <a href="https://developer.arm.com/documentation/den0013/d/Introduction-to-Assembly-Language" title="Assembly"><img src="./icons/asm.png" alt="Assembly" width="41px" height="41px"></a>
 <a href="https://www.datenbanken-verstehen.de/" title="SQL"><img src="./icons/sql.png" alt="SQL" width="31px" height="41px"></a>
 <a href="https://mdxjs.com/" title="MDX"><img src="./icons/mdx.png" alt="MDX" width="61px" height="41px"></a>
+<a href="https://react.dev/" title="React"><img src="./icons/react.png" alt="React logo" width="41px" height="41px"></a>
 <a href="https://nextjs.org/" title="Next"><img src="./icons/next.png" alt="Next logo" width="41px" height="41px"></a>
 <a href="https://www.qt.io/product/development-tools" title="QT"><img src="./icons/qt.png" alt="QT logo" width="41px" height="41px"></a>
 <a href="https://www.electronjs.org/" title="Electron"><img src="./icons/electron.png" alt="Electron logo" width="41px" height="41px"></a>
