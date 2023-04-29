@@ -61,7 +61,6 @@ Just Progress IT is set up to create a training environment for the members of t
 <a href="https://www.mockaroo.com/" title="Mockaroo"><img src="./icons/mockaroo.png" alt="Mockaroo logo" width="61px" height="41px"></a>
 <a href="https://jsonplaceholder.typicode.com/" title="JSON"><img src="./icons/json.png" alt="JSON logo" width="41px" height="41px"></a>
 <a href="https://fakerjs.dev/" title="Faker"><img src="./icons/faker.svg" alt="Faker logo" width="41px" height="41px"></a>
-<a href="https://www.getstark.co/" title="Stark"><img src="./icons/stark.png" alt="Stark logo" width="41px" height="41px"></a>
 <a href="https://developers.google.com/search/docs/appearance/structured-data" title="Google Developers"><img src="./icons/google-dev.png" alt="Google Developers logo" width="61px" height="31px"></a>
 <a href="https://developer.chrome.com/docs/lighthouse/overview/" title="Lighthouse"><img src="./icons/lighthouse.png" alt="Lighthouse logo" width="41px" height="41px"></a>
 <a href="https://www.screamingfrog.co.uk/seo-spider/" title="Screaming Frog"><img src="./icons/screamingfrog.png" alt="Screaming Frog logo" width="41px" height="41px"></a>
